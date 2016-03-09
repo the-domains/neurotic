@@ -1,0 +1,28 @@
+name: Neurotic
+favicon: null
+layout_spectrum: 0.6810787725262344
+typography_spectrum: 0.38807609654031694
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.23812591168098152
+  lightness: 0.15443114889785647
+  saturation: 0.7637834732886404
+  rhythmicContrast: 0.5709965168498456
+purpose: []
